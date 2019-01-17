@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">StartUp3000</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="support_developer">Support Developer</string>
+    <string name="msg_to_user">I don\'t need your money, just watch some ads.</string>
+
+
+    <string name="add_mob_app_id">ca-app-pub-2281710215988448~7606080984</string>
+    <string name="banner_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner1_id">ca-app-pub-2281710215988448/5212686084</string>
+    <string name="banner2_id">ca-app-pub-2281710215988448/9638892544</string>
+    <string name="banner3_id">ca-app-pub-2281710215988448/9229976238</string>
+    <string name="banner4_id">ca-app-pub-2281710215988448/6322587778</string>
+    <string name="banner5_id">ca-app-pub-2281710215988448/4073906375</string>
+    <string name="banner6_id">ca-app-pub-2281710215988448/2080090439</string>
+    <string name="banner7_id">ca-app-pub-2281710215988448/9802544070</string>
+    <string name="banner8_id">ca-app-pub-2281710215988448/6757702045</string>
+    <string name="banner9_id">ca-app-pub-2281710215988448/6984809046</string>
+    <string name="banner10_id">ca-app-pub-2281710215988448/6793237352</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Quisque felis eros, scelerisque ac accumsan id,
+        consectetur quis nisl. Vestibulum posuere, eros ut pretium ullamcorper, nisi ipsum sagittis dolor,
+        hendrerit viverra elit risus rhoncus nisl. Donec dictum maximus ullamcorper. Donec felis massa, bibendum non dolor at,
+        hendrerit vehicula eros. In velit sapien, sagittis id ipsum eget, lobortis accumsan mi. Donec dapibus erat id varius sollicitudin.
+        Aliquam efficitur non erat a luctus.</string>
+    <string name="calculator">Calculator</string>
+    <string name="settings">Settings</string>
+    <string name="show_ads">Show ads</string>
+    <string name="documentation">Documentation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="equals">=</string>
+    <string name="false_value">0</string>
+    <string name="true_value">1</string>
+    <string name="null_value">x</string>
+    <string name="right_bracket">)</string>
+    <string name="left_bracket">(</string>
+    <string name="clear_last_sign">C</string>
+    <string name="clear_all">CE</string>
+    <string name="not">!</string>
+    <string name="conjunction">∧</string>
+    <string name="disjunction">∨</string>
+    <string name="not_and">|</string>
+    <string name="equality">~</string>
+    <string name="not_or">&#160;↓&#160;</string>
+    <string name="exclusive_or">⊕</string>
+    <string name="converse_implication">&#160;←&#160;</string>
+    <string name="implication">&#160;→&#160;</string>
+    <string name="not_implication">!→</string>
+    <string name="not_converse_implication">!←</string>
+</resources>

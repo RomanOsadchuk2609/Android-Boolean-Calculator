@@ -92,9 +92,9 @@ public class MainActivity extends AppCompatActivity
             fm.beginTransaction().replace(R.id.main_content_fl, CalculatorFragment.newInstance())
                     .commit();
 
-        } else if (id == R.id.nav_manage) {
+        } /*else if (id == R.id.nav_manage) {
 
-        } else if (id == R.id.nav_about) {
+        }*/ else if (id == R.id.nav_about) {
             fm.beginTransaction().replace(R.id.main_content_fl, AboutFragment.newInstance())
                     .commit();
         } else if (id == R.id.nav_share) {
@@ -109,10 +109,10 @@ public class MainActivity extends AppCompatActivity
 
             startActivity(Intent.createChooser(share, "Share link via..."));
 
-        } else if (id == R.id.nav_support_developer) {
+        } /*else if (id == R.id.nav_support_developer) {
             fm.beginTransaction().replace(R.id.main_content_fl, SupportDeveloperFragment.newInstance())
                     .commit();
-        }
+        }*/
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);

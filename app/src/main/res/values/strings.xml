@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">StartUp3000</string>
+    <string name="app_name">Boolean Calculator</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -7,7 +7,7 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="support_developer">Support Developer</string>
-    <string name="msg_to_user">I don\'t need your money, just watch some ads.</string>
+    <string name="msg_to_user">If you want to help me, just watch some ads.</string>
 
 
     <string name="add_mob_app_id">ca-app-pub-2281710215988448~7606080984</string>

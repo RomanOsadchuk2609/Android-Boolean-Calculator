@@ -36,8 +36,6 @@
     <string name="show_ads">Show ads</string>
     <string name="documentation">Documentation</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="equals">=</string>
     <string name="false_value">0</string>
     <string name="true_value">1</string>
@@ -57,4 +55,15 @@
     <string name="implication">&#160;→&#160;</string>
     <string name="not_implication">!→</string>
     <string name="not_converse_implication">!←</string>
+
+    <string name="conjunction_desc">∧ - Кон\'юнкція (AND)</string>
+    <string name="disjunction_desc">∧ - Диз\'юнкція (OR)</string>
+    <string name="not_and_desc">| - Заперечення кон\'юнкції (NOT AND)</string>
+    <string name="not_or_desc">↓ - Заперечення диз\'юнкції (NOT OR)</string>
+    <string name="equality_desc">~ - еквівалентність</string>
+    <string name="exclusive_or_desc">⊕ - виколючене або (XOR)</string>
+    <string name="implication_desc">→ - Імплікація</string>
+    <string name="converse_implication_desc">← - Обернена імплікація</string>
+    <string name="not_implication_desc">!→ - Заперечення імплікації</string>
+    <string name="not_converse_implication_desc">!← - Заперечення оберненої шьплікації</string>
 </resources>

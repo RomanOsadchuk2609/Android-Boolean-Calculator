@@ -196,11 +196,12 @@
                         android:layout_height="80dp"
                         android:layout_marginRight="8dp"
                         android:layout_weight="1"
-                        android:text="@string/not" />
+                        android:text="@string/not"
+                        android:visibility="gone" />
 
                     <Button
                         android:id="@+id/buttonConjunction"
-                        android:layout_width="80dp"
+                        android:layout_width="124dp"
                         android:layout_height="80dp"
                         android:layout_marginRight="8dp"
                         android:layout_weight="1"
@@ -208,7 +209,7 @@
 
                     <Button
                         android:id="@+id/buttonDisjunction"
-                        android:layout_width="80dp"
+                        android:layout_width="124dp"
                         android:layout_height="80dp"
                         android:layout_weight="1"
                         android:text="@string/disjunction" />

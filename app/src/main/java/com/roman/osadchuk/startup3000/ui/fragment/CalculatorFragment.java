@@ -685,6 +685,7 @@ public class CalculatorFragment extends Fragment {
                     }
                     break;
 
+                case NOT:
                 case LEFT_BRACKET:
                     if (isLeftBracket) {
                         //clearLastSign();

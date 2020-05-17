@@ -156,16 +156,16 @@ public class SupportDeveloperFragment extends Fragment {
 
         @Override
         protected Void doInBackground(Void... params) {
-            adRequest1 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest2 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest3 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest4 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest5 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest6 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest7 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest8 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest9 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
-            adRequest10 = new AdRequest.Builder().addTestDevice("66F37B18FB1DC3A8A331AC234B15F0C2").build();
+            adRequest1 = new AdRequest.Builder().build();
+            adRequest2 = new AdRequest.Builder().build();
+            adRequest3 = new AdRequest.Builder().build();
+            adRequest4 = new AdRequest.Builder().build();
+            adRequest5 = new AdRequest.Builder().build();
+            adRequest6 = new AdRequest.Builder().build();
+            adRequest7 = new AdRequest.Builder().build();
+            adRequest8 = new AdRequest.Builder().build();
+            adRequest9 = new AdRequest.Builder().build();
+            adRequest10 = new AdRequest.Builder().build();
             return null;
         }
 

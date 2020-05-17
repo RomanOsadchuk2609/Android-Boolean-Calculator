@@ -4,5 +4,6 @@ public enum LastSign {
     VALUE,
     OPERATION,
     LEFT_BRACKET,
-    RIGHT_BRACKET
+    RIGHT_BRACKET,
+    NOT
 }
